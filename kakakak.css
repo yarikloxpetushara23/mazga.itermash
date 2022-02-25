@@ -1,0 +1,19 @@
+
+.yarik{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: auto;
+}
+.elnurgei{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: auto;
+}
+.number1{
+	width: 1500;
+}
+.elnurgei {
+	width: 25%;
+}
